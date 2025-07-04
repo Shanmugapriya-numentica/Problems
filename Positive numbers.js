@@ -12,4 +12,4 @@ for (let i=0; i<array.length;i++){
         array2[array2.length]= check_value
     }
 }
-console.log("Positive Numbers are: ", array2)
+console.log("Positive Numbers are: ", array2) //output
